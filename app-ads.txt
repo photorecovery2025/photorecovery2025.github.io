@@ -3,4 +3,7 @@
 # Admob
 google.com, pub-7831252862755056, DIRECT, f08c47fec0942fa0
 
+#facebook
+facebook.com, 1517511662719086, DIRECT, c3e20eee3f780d68
+
 # End

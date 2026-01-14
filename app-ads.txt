@@ -6,4 +6,14 @@ google.com, pub-7831252862755056, DIRECT, f08c47fec0942fa0
 #facebook
 facebook.com, 1517511662719086, DIRECT, c3e20eee3f780d68
 
+#vungle
+vungle.com, 6825c6e04650cf00118240fc, DIRECT, c107d686becd2d77
+
+#mintegral
+
+
+#pangle
+
+
+
 # End
